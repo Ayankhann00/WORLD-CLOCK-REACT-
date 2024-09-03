@@ -38,7 +38,8 @@ bash
 Copy code
 npm install
 Run the application:
-bash
+bash<img width="1280" alt="Screenshot 2024-09-03 at 5 00 29 PM" src="https://github.com/user-attachments/assets/1987a738-8739-45a2-a46d-16155d51926e">
+
 Copy code
 npm start
 Future Improvements
@@ -50,3 +51,4 @@ License
 
 This project is open-source and available under the MIT License.
 Feel free to customize it further according to your needs!
+
