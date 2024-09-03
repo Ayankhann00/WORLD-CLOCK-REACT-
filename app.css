@@ -1,0 +1,41 @@
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px; 
+}
+
+.jumbotron {
+  flex: 1 1 calc(33.33% - 20px); 
+  box-sizing: border-box; 
+  margin-bottom: 50px; 
+}
+
+
+h3.display-4,
+h4.display-4 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.react-clock {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.body {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 15px;
+  background-image:url(world-map-1042847_1280.png);
+  background-size: cover;
+}
+
+.header{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navv{
+  position: sticky;
+  top: 0;
+}
